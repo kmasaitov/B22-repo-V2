@@ -1,0 +1,6 @@
+This is the second file 
+I have created so far.
+Repository is package 
+Inside the Repository we create files
+We need to save after we made any changes otherwise it will not save
+This folder will have two files for practice purposes
