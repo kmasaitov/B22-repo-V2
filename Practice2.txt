@@ -1,0 +1,5 @@
+This is the second file I am creating 
+inside the same folder for practice
+I need to make sure to save what ever changes I am making
+It is very important to save any work 
+After all we need to commit by giving some explanation
